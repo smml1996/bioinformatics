@@ -1,0 +1,3 @@
+/Users/stefaniemuroyalei/Documents/BioInformatics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stefaniemuroyalei/Documents/BioInformatics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stefaniemuroyalei/Documents/BioInformatics/cmake-build-debug/CMakeFiles/BioInformatics.dir

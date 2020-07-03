@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stefaniemuroyalei/Documents/BioInformatics/AdditiveTree.h
+string
+-
+
+/Users/stefaniemuroyalei/Documents/BioInformatics/SecondaryStructurePredictor.cpp
+SecondaryStructurePredictor.h
+/Users/stefaniemuroyalei/Documents/BioInformatics/SecondaryStructurePredictor.h
+fstream
+-
+climits
+-
+iostream
+-
+
+/Users/stefaniemuroyalei/Documents/BioInformatics/SecondaryStructurePredictor.h
+string
+-
+vector
+-
+
+/Users/stefaniemuroyalei/Documents/BioInformatics/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+AdditiveTree.h
+/Users/stefaniemuroyalei/Documents/BioInformatics/AdditiveTree.h
+SecondaryStructurePredictor.h
+/Users/stefaniemuroyalei/Documents/BioInformatics/SecondaryStructurePredictor.h
+
